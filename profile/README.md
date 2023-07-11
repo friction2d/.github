@@ -1,4 +1,4 @@
-[![Logo](https://friction.graphics/assets/logo-uni.svg)](https://friction.graphics)
+[![Logo](https://friction.graphics/assets/logo-uni.svg#v2)](https://friction.graphics)
 
 * [Latest release](https://github.com/friction2d/friction/releases/latest)
 * [Website](https://friction.graphics)
