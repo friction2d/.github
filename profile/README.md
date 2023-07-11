@@ -1,3 +1,6 @@
+![Logo](https://friction.graphics/assets/logo.svg#gh-dark-mode-only)
+![Logo](https://friction.graphics/assets/logo-black.svg#gh-light-mode-only)
+
 * [Latest release](https://github.com/friction2d/friction/releases/latest)
 * [Website](https://friction.graphics)
 * [Discussions](https://github.com/orgs/friction2d/discussions)
